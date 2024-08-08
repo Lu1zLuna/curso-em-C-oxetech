@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "pares.h"
 int main()
 {
 	int minimoIntervalo = 1;
