@@ -57,6 +57,9 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
-    "1005.C": "cpp"
-  }
+    "1005.C": "cpp",
+    "cmath": "c",
+    "1016.C": "cpp"
+  },
+  "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe"
 }
