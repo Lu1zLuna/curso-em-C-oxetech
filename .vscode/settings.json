@@ -59,7 +59,8 @@
   "files.associations": {
     "1005.C": "cpp",
     "cmath": "c",
-    "1016.C": "cpp"
+    "1016.C": "cpp",
+    "iostream": "cpp"
   },
   "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe"
 }
